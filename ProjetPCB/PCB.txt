@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ProjetPCB.PrjPcb|ReportField=ProjectFullPath~C:\Users\Haifa\Desktop\ProjetPCB\ProjetPCB.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB.PcbDoc]|ReportField=TotalQuantity~33|ReportField=ReportTime~22:08:08|ReportField=ReportDate~04/05/2023|ReportField=ReportDateTime~04/05/2023 22:08:08|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Haifa\Desktop\ProjetPCB\PCB.PcbDoc
+1|LCD 16x2||AFF1|LCRU01602DSFAWH|LCD 16x2|1
+2|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C6|C1206|Cap Semi|3
+3|Cap Pol1|Polarized Capacitor (Radial)|C4, C5|RB7.6-15|Cap Pol1|2
+4|Diode|Default Diode|D1, D2, D3, D4|SMC|Diode|4
+5|LED0|Typical INFRARED GaAs LED|D7|LED-0|LED0|1
+6|Diode 1N4001|1 Amp General Purpose Rectifier|D8|DO-41|Diode 1N4001|1
+7|PWR2.5|Low Voltage Power Supply Connector|J1|KLD-0202|PWR2.5|1
+8|Header 2|Header, 2-Pin|P1|HDR1X2|Header 2|1
+9|2N3904|NPN General Purpose Amplifier|Q1, Q3|TO-92A|2N3904|2
+10|2N3906|PNP General Purpose Amplifier|Q2, Q4|TO-92A|2N3906|2
+11|Res2|Resistor|R1, R2, R3, Re4|AXIAL-0.4|Res2|4
+12|Res Semi|Semiconductor Resistor|R4|AXIAL-0.5|Res Semi|1
+13|Res1|Resistor|R7|AXIAL-0.3|Res1|1
+14|Res Tap|Tapped Resistor|Rv1, RV2|VR3|Res Tap|2
+15|ILD74|Optocoupler, Phototransistor Output, Dual Channel, TTL Compatible, Pb-free|U1, U2, U3, U4|DIP8|ILD74|4
+16|PIC16F876A-E/SO|Enhanced FLASH Microcontroller, 8K (x14-Bit words) FLASH, 368 Bytes RAM, 28-Pin SOIC, Standard VDD Range, Extended Temperature|U5|SOIC-SO28_N|PIC16F876A-E/SO|1
+17|L7805ABD2T|Precision 1A Regulator|VR1|TO-263|L7805ABD2T|1
+18|XTAL|Crystal Oscillator|X1|R38|XTAL|1
